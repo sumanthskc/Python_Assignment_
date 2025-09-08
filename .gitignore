@@ -1,0 +1,10 @@
+# Ignore large datasets
+ETL job/survey_results_public.csv
+Python_MOCK_Test/HousingDataset.csv
+Python_MOCK_Test\sql_assignment
+Python_MOCK_Test\sql_assignment
+ETL job\survey_results_schema.csv
+xlsx_to_csv\Sample_sheet.xlsx
+
+# Optional: ignore all CSVs
+# *.csv
